@@ -9,7 +9,7 @@ const emojiDictionary = {
   "🎳": "Bowling",
   "⛰️": "Mountain",
   "🙃": "Upside-down",
-   "🤩": "excited",
+  "🤩": "excited",
   "❤": "love",
   "🔥": "fire",
   "😎": "cool",
@@ -72,7 +72,8 @@ const emojiDictionary = {
   "😼": "Cat with Wry Smile",
   "🌅": "Sunrise",
   "🚴": "Cyclist",
-  "🍿": "Popcorn"
+  "🍿": "Popcorn",
+  "♾️": "Infinity"
 };
 
 var knownEmoji = Object.keys(emojiDictionary);
